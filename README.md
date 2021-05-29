@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 Hi, I'm Yaroslav.
 
-I study radioelectronics at National Research University of Electronic Technology, Zelenograd, Moscow.
+I study radioengineering at National Research University of Electronic Technology, Zelenograd, Moscow.
