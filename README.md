@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 
 Hi, I'm Yaroslav.
 
-I study radioengineering at National Research University of Electronic Technology, Zelenograd, Moscow.
+Have a bachelor degree on radioengineering at National Research University of Electronic Technology, Zelenograd, Moscow.
+
+Studying at Applied Math (Digital Signal and Images Processing, Machine Learning, Pattern Recognition) Programm at the same university.
